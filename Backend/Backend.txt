@@ -1,0 +1,2 @@
+
+Within this folder, you'll find the backbone of our project—our backend programs. Here, we seamlessly retrieve data from our MySQL database, apply various manipulations to ensure data integrity, and establish a robust connection to our API.
