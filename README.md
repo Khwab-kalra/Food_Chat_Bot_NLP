@@ -19,5 +19,5 @@ This repository contains the code for building a chatbot for a food delivery sys
 - Dialogflow account
 - FastAPI
 - MySQL database
-- Dialogflow SDK
-- Dialogflow Python Client
+- ngrok
+
