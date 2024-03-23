@@ -1,6 +1,6 @@
 # Food Delivery Chatbot with Dialogflow
 
-This repository contains the code for building a chatbot for a food delivery system using Dialogflow. The project covers end-to-end development, including Dialogflow basics, backend development in Python with FastAPI, interaction with MySQL database, and more. It aims to provide a comprehensive guide for understanding and implementing Dialogflow fundamentals such as intents, entities, contexts, etc.
+This repository contains the code for building a chatbot for a food delivery system using Dialogflow. Throughout this project, I embarked on an end-to-end development journey, delving into various aspects such as Dialogflow basics, backend development in Python with FastAPI, interaction with a MySQL database, and beyond. This experience provided me with a comprehensive understanding and practical implementation of Dialogflow fundamentals, including intents, entities, contexts, and more.
 
 ## Features
 
