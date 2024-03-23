@@ -1,0 +1,1 @@
+This Folder contains the front end (HTML & CSS) for the basic web page created for interaction with the user
